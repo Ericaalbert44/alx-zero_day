@@ -1,2 +1,1 @@
-My first readme
-update README.md
+_standard_
